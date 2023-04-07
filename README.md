@@ -6,12 +6,15 @@ but interested in 'Market Analysis' and 'Business Strategy'.
 ### Development Experience
 
 (1) SNU Team Study
+- for Development study
 - Front Mentee (Mentor. 차민철)
 
 (2) GlobalLink - Failed
-- Front(React) Developer (for overseas direct purchase)
+- for overseas direct purchase
+- Front(React) Developer 
 
 (3) (c)Veradi Development TeamLeader 
+- for Education Project
 - Front(Svelte) Developer (veradi.co.kr)
 
 (4) near Future
