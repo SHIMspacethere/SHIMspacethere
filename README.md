@@ -38,7 +38,7 @@ but interested in 'Market Analysis' and 'Business Strategy'.
 - This makes who made Contents can reduce The cost of building and reviewing contents.
 - 2022.09 ~ 2023.02
 
-(4) near Future
+(5) near Future
 - (c)Hiconsy Editor Project Proponent
 
 <!--
