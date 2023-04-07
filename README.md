@@ -1,4 +1,21 @@
-### Hi there 👋
+### Welcome to my Repository!
+
+I'm front-web Developer,
+but interested in 'Market Analysis' and 'Business Strategy'.
+
+###Development Experience
+
+(1) SNU Team Study
+Front Mentee (Mentor. 차민철)
+
+(2) GlobalLink - Failed
+Front(React) Developer (for overseas direct purchase)
+
+(3) (c)Veradi Development TeamLeader 
+Front(Svelte) Developer (veradi.co.kr)
+
+- near Future
+(c)Hiconsy Editor Project Proponent
 
 <!--
 **SHIMspacethere/SHIMspacethere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
