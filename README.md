@@ -28,7 +28,7 @@ but interested in 'Market Analysis' and 'Business Strategy'.
 - 2022.1 ~ 2022.6
 
 (3) Veradi - Front-Web Project
-- for Introducing Educational Website (veradi.co.kr)
+- for Introducing Educational Website (www.veradi.co.kr)
 - Front(Svelte), Back(Firebase)
 - Front(Svelte) Developer
 - 2022.03 ~ (current)
