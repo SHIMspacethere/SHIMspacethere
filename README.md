@@ -35,7 +35,7 @@ but interested in 'Market Analysis' and 'Business Strategy'.
 
 (4) Veardi - Prototype Editor
 - for proof in that The mechanism of Contents can be solved in algorithms.
-- This makes who made Contents can reduce The cost of building and reviewing contents.
+- This makes who produces Contents can reduce The cost of building and reviewing contents.
 - 2022.09 ~ 2023.02
 
 (5) near Future
