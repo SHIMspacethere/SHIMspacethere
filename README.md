@@ -3,6 +3,8 @@
 I'm front-web Developer,
 but interested in 'Market Analysis' and 'Business Strategy'.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIMspacethere&show_icons=true&theme=스타일)
+
 ### Career
 
 (1) (c)Limpid Contents-Bio1 TeamLeader
